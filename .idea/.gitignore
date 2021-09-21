@@ -44,5 +44,9 @@ out/
 *.ear
 *.zip
 *.tar.gz
+<<<<<<< HEAD
 *.rar
 
+=======
+*.rar
+>>>>>>> mastre
