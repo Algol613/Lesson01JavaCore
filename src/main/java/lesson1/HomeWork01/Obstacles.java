@@ -2,6 +2,7 @@ package lesson1.HomeWork01;
 
 /**
  * Класс препятствий
+ *
  */
 
 public class Obstacles {
